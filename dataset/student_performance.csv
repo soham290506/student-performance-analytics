@@ -1,0 +1,21 @@
+Student_ID,Student_Name,Department,Subject,Marks,Attendance_Percentage,Semester
+S001,Aarav Sharma,CSE,Maths,78,85,3
+S002,Ananya Verma,CSE,Maths,65,72,3
+S003,Rohan Patel,IT,Maths,82,90,3
+S004,Priya Singh,IT,Maths,58,68,3
+S005,Aditya Mehta,CSE,Physics,74,80,3
+S006,Neha Gupta,IT,Physics,69,75,3
+S007,Karan Joshi,CSE,Physics,88,92,3
+S008,Sneha Kulkarni,IT,Physics,55,60,3
+S009,Rahul Nair,CSE,Computer Networks,91,95,3
+S010,Pooja Iyer,IT,Computer Networks,77,85,3
+S011,Arjun Rao,CSE,Computer Networks,68,70,3
+S012,Meera Das,IT,Computer Networks,84,88,3
+S013,Vihaan Shah,CSE,Maths,72,78,4
+S014,Isha Kapoor,IT,Maths,60,65,4
+S015,Dev Malhotra,CSE,Physics,86,90,4
+S016,Ritika Jain,IT,Physics,73,82,4
+S017,Nikhil Bansal,CSE,Computer Networks,89,93,4
+S018,Aditi Chawla,IT,Computer Networks,66,74,4
+S019,Siddharth Roy,CSE,Maths,81,88,4
+S020,Kavya Arora,IT,Physics,70,76,4x
