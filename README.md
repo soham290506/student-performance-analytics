@@ -45,6 +45,10 @@ dataset/student_performance.csv
 
 ## Tools Used
 - Power BI
+
+- ## Conclusion
+This project demonstrates how Power BI can be used for academic performance analysis,
+with GitHub enabling version control and documentation of analytics workflows.
 - GitHub
 - CSV Dataset
 
