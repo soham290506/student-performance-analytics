@@ -54,3 +54,9 @@ with GitHub enabling version control and documentation of analytics workflows.
 
 ## Author
 Soham Sharma
+
+## Project Objective
+To analyze student academic performance using data visualization techniques and build an
+interactive dashboard using Power BI, while maintaining the project using GitHub version control.
+
+
