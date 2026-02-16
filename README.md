@@ -67,3 +67,14 @@ interactive dashboard using Power BI, while maintaining the project using GitHub
 | Power BI  | Data visualization and dashboard creation |
 | GitHub   | Version control and project tracking |
 | CSV      | Dataset storage |
+
+## Project Workflow
+
+The following diagram illustrates the overall workflow of the project:
+
+1. Student performance data is collected and stored in CSV format.
+2. The dataset is imported into Power BI for analysis.
+3. Interactive dashboards and visualizations are created.
+4. The project files, documentation, and screenshots are maintained using GitHub.
+
+![Project Workflow](dataset/powerbi/report/screenshots/project_workflow.jpeg)
