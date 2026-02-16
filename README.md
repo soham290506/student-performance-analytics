@@ -60,3 +60,10 @@ To analyze student academic performance using data visualization techniques and 
 interactive dashboard using Power BI, while maintaining the project using GitHub version control.
 
 
+## Tools & Technologies
+
+| Tool      | Purpose |
+|-----------|---------|
+| Power BI  | Data visualization and dashboard creation |
+| GitHub   | Version control and project tracking |
+| CSV      | Dataset storage |
