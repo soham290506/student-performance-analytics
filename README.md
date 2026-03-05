@@ -78,3 +78,12 @@ The following diagram illustrates the overall workflow of the project:
 4. The project files, documentation, and screenshots are maintained using GitHub.
 
 ![Project Workflow](dataset/powerbi/report/screenshots/project_workflow.jpeg)
+
+## Future Scope
+
+This project can be expanded in several ways:
+
+- Integration of larger and real-world datasets.
+- Adding predictive analytics to forecast student performance.
+- Automating data updates for real-time dashboards.
+- Expanding analysis to include more academic metrics such as assignments and exam scores.
