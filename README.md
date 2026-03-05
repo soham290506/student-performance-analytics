@@ -87,3 +87,23 @@ This project can be expanded in several ways:
 - Adding predictive analytics to forecast student performance.
 - Automating data updates for real-time dashboards.
 - Expanding analysis to include more academic metrics such as assignments and exam scores.
+
+## Project Structure
+
+dataset/
+- Contains the student performance dataset used for analysis.
+
+dataset/powerbi/
+- Contains Power BI related project files and documentation.
+
+dataset/powerbi/report/screenshots/
+- Screenshots of the Power BI dashboard visuals.
+
+report/
+- Contains analysis and project documentation files.
+
+report/data_analysis.md
+- Summary of insights derived from the dashboard.
+
+report/project_summary.md
+- Overview and explanation of the project.
