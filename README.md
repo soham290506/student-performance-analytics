@@ -107,3 +107,12 @@ report/data_analysis.md
 
 report/project_summary.md
 - Overview and explanation of the project.
+
+## Key Insights
+
+From the dashboard analysis, several insights can be observed:
+
+- Some subjects show higher average marks, indicating stronger student performance.
+- Attendance appears to have a positive relationship with marks, as seen in the scatter plot.
+- Department-wise comparisons show variations in both attendance and academic performance.
+- The interactive slicer allows quick filtering of data to compare department trends.
