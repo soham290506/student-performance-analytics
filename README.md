@@ -117,6 +117,30 @@ From the dashboard analysis, several insights can be observed:
 - Department-wise comparisons show variations in both attendance and academic performance.
 - The interactive slicer allows quick filtering of data to compare department trends.
 
+## 🚀 Key Features of Dashboard
+
+### 📊 KPI Cards
+- Average Marks
+- Average Attendance
+- Total Students
+- Highest Marks
+
+### 📈 Visual Analysis
+- Average Marks by Subject
+- Average Marks by Semester
+- Average Marks by Department
+- Attendance vs Marks (Scatter Plot)
+
+### 🎯 Advanced Features
+- Top 5 Students using Top-N Filter
+- Rank Calculation using DAX
+- Conditional Formatting (Performance Highlighting)
+- Interactive Department Filter (Slicer)
+
+### 📄 Multi-Page Report
+- Page 1: Overview Dashboard
+- Page 2: Detailed Student Analysis
+  
 ## 📸 Final Dashboard Screenshots
 
 ### Dashboard Overview
