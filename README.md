@@ -116,3 +116,11 @@ From the dashboard analysis, several insights can be observed:
 - Attendance appears to have a positive relationship with marks, as seen in the scatter plot.
 - Department-wise comparisons show variations in both attendance and academic performance.
 - The interactive slicer allows quick filtering of data to compare department trends.
+
+## 📸 Final Dashboard Screenshots
+
+### Dashboard Overview
+![Dashboard](dataset/powerbi/report/screenshots/page111.png)
+
+### Top Performing Students Analysis
+![Top Students](dataset/powerbi/report/screenshots/page222.png)
