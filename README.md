@@ -1,4 +1,4 @@
-# Student Performance Analytics Dshboard(POWER BI)
+# Student Performance Analytics Dashboard(POWER BI)
 
 A Power BI dashboard project analyzing student performance metrics using GitHub for version control.
 
