@@ -163,8 +163,7 @@ Allows user to drill down into individual student performance with detailed metr
 ## 📸 Additional Dashboard Views
 
 ### Extended Performance Analysis
-![Page 2 Extended](screenshots/page22.png)
+![Page 2 Extended](dataset/powerbi/report/screenshots/page22.png)
 
 ### Extended Drill-Through Analysis
-![Page 3 Extended](screenshots/page333.png)
-
+![Page 3 Extended](dataset/powerbi/report/screenshots/page333.png)
