@@ -160,4 +160,11 @@ Includes detailed analysis such as top and least performing students, marks dist
 ### 3. Student Drill-Through Analysis
 Allows user to drill down into individual student performance with detailed metrics and visualizations.
 
+## 📸 Additional Dashboard Views
+
+### Extended Performance Analysis
+![Page 2 Extended](screenshots/page22.png)
+
+### Extended Drill-Through Analysis
+![Page 3 Extended](screenshots/page333.png)
 
