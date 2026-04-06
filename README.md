@@ -148,3 +148,16 @@ From the dashboard analysis, several insights can be observed:
 
 ### Top Performing Students Analysis
 ![Top Students](dataset/powerbi/report/screenshots/page222.png)
+
+## 📊 Dashboard Pages
+
+### 1. Overview Dashboard
+Provides a high-level summary of student performance including KPIs, subject-wise analysis, and attendance trends.
+
+### 2. Performance Analysis
+Includes detailed analysis such as top and least performing students, marks distribution, and department comparison.
+
+### 3. Student Drill-Through Analysis
+Allows user to drill down into individual student performance with detailed metrics and visualizations.
+
+
