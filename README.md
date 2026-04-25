@@ -167,3 +167,6 @@ Allows user to drill down into individual student performance with detailed metr
 
 ### Extended Drill-Through Analysis
 ![Page 3 Extended](dataset/powerbi/report/screenshots/page333.png)
+
+### LIVE PREVIEW
+https://app.powerbi.com/links/FOVFa_lPPQ?ctid=27282fdd-4c0b-4dfb-ba91-228cd83fdf71&pbi_source=linkShare
